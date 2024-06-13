@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shahdevKumar653?t=CE5m2mzWNsEn2YapllFkfw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahdevkumar653" height="30" width="40" /></a>
+<a href="https://x.com/shahdevKumar653?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahdevkumar653" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shahdev-kumar-48a8a5235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahdev kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shahdev.kumar.902?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahdev doongrani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=j61obm6hpev6&utm_content=4hytks9 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahdevkumar32" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shahdevkumar32?igsh=MWc5NGl4MXJ2N3dudg== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahdevkumar32" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ShahdevKumarOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahdev kumar" height="30" width="40" /></a>
 </p>
 
