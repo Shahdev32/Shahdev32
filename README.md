@@ -3,14 +3,16 @@
 <div align="center">
     <img src="https://github.com/Shahdev32/Shahdev32/blob/main/a.png" alt="Description of image">
 </div>
-<div style="text-align: right;">
-    <img src="https://github.com/Shahdev32/Shahdev32/blob/main/JXA0.gif" alt="Description of image">
-</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdev32&label=Profile%20views&color=0e75b6&style=flat" alt="shahdev32" /> </p>
 
-- 🔭 I’m currently working on [DSA](https://github.com/Shahdev32/DSA)
+
+
+- 🔭 I’m currently working on [DSA](https://github.com/Shahdev32/DSA) <div style="text-align: right;">
+    <img src="https://github.com/Shahdev32/Shahdev32/blob/main/JXA0.gif" alt="Description of image">
+</div>
 
 - 🌱 I’m currently learning **MERN and AI**
 
