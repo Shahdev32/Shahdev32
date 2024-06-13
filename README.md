@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [DSA](https://github.com/Shahdev32/DSA) <div style="text-align: right;">
+- 🔭 I’m currently working on [DSA](https://github.com/Shahdev32/DSA) <div style="text-align: left;">
     <img src="https://github.com/Shahdev32/Shahdev32/blob/main/JXA0.gif" alt="Description of image">
 </div>
 
