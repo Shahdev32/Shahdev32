@@ -113,8 +113,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdev32&show_icons=true&locale=en&layout=compact" alt="shahdev32" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahdev32&show_icons=true&locale=en" alt="shahdev32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdev32&" alt="shahdev32" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahdev32&show_icons=true&locale=en" alt="shahdev32" /></p>
+
+
 
 
