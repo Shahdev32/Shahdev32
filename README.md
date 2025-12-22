@@ -79,9 +79,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=shahdev32" alt="GitHub streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahdev32&show_icons=true&locale=en" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahdev32&show_icons=true&locale=en" />
+  <img align="center" src="https://streak-stats.demolab.com?user=shahdev32" alt="GitHub streak" />
 </p>
