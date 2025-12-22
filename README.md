@@ -42,9 +42,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Icons Section -->
 <p align="left">
-  <!-- ICONS (same as your list, just formatted cleanly) -->
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/></a>
@@ -74,12 +72,14 @@
 
 ---
 
+<!-- GitHub Stats Section -->
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdev32&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdev32" />
+  <img align="center" src="https://streak-stats.demolab.com?user=shahdev32" alt="GitHub streak" />
 </p>
 
 <p>
