@@ -91,3 +91,9 @@ TensorFlow • PyTorch • Pandas • Scikit-learn
 ## 🎯 Current Focus
 
 Building production-ready MERN stack applications and improving problem-solving skills for software engineering opportunities.
+
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahdev32&theme=tokyonight" />
+</p>
