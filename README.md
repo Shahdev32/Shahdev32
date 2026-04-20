@@ -20,7 +20,7 @@
 - 🔭 Working on **Data Structures & Algorithms** and scalable web apps
 - 💡 Interested in building **real-world SaaS, AI, and business solutions**
 - 👨‍💻 Explore my projects here: **[GitHub Portfolio](https://github.com/Shahdev32)**
-- 📫 Reach me at: **shahdevkumar.d@gmail.com**
+- 📫 Reach me at: **shahdevdoongrani@gmail.com**
 - 🌍 Based in **Pakistan**
 
 ---
@@ -33,13 +33,6 @@
   </a>
   <a href="https://www.linkedin.com/in/shahdev-kumar-48a8a5235" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://www.facebook.com/shahdev.kumar.902" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>
-  <a href="https://www.instagram.com/shahdevkumar32" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
   <a href="https://www.youtube.com/@ShahdevKumarOfficial" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" />
   </a>
