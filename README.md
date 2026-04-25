@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Advanced Backend Development, AI Integration & System Design**
 - 🔭 Working on **Data Structures & Algorithms** and scalable web apps
 - 💡 Interested in building **real-world SaaS, AI, and business solutions**
-- 👨‍💻 Explore my projects here: **[GitHub Portfolio](https://github.com/Shahdev32)**
+- 👨‍💻 Explore my projects here: **[GitHub Portfolio](https://shahdevkumar-dev.vercel.app/)**
 - 📫 Reach me at: **shahdevdoongrani@gmail.com**
 - 🌍 Based in **Pakistan**
 
